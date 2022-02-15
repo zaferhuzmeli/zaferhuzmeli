@@ -36,3 +36,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Expreience
+
+```mermaid
+graph LR
+  rcd(RADORE)    -- Jun.2020 - .... --> now((Currently))
+  ins(Insider)   -- Aug.2019 - Jun.2020  --> rcd(RADORE)
+  nl(Novalonca)  -- Apr.2019 - Aug.2019  --> ins(Insider)
+  byt(Beytturk)  -- Oct.2018 - Apr.2019  --> nl(Novalonca)
+  iven(IVEN)     -- Apr.2018 - Oct.2018  --> byt(Beytturk)  
+```
