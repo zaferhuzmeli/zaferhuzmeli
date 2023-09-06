@@ -17,7 +17,7 @@ I'm Zafer Huzmeli (Zachary) graduated from Bahcesehir University majored in Soft
 <a href="https://instagram.com/zaferhuzmeli" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="zaferhuzmeli" height="30" width="40" /></a>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=zaferhuzmeli&show_icons=true&hide_border=true&count_private=true&theme=dark&line_height=24&hide_rank=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=zaferhuzmeli&hide=stars&show_icons=true&hide_border=true&count_private=true&theme=dark&line_height=24&hide_rank=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaferhuzmeli&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark&line_height=24)
 
 
