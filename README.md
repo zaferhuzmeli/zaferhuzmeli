@@ -3,7 +3,7 @@
 I'm Zafer Huzmeli (Zachary) graduated from Bahcesehir University majored in Software Engineering.
 
 
-- 🔭 I’m currently working on PHP, JS(ReactJS - Next.JS), CSS
+- 🔭 I’m currently working on JS(ReactJS - Next.JS - NodeJS - Typescript), CSS(Tailwind, MaterialUI, Bootstrap)
 
 - 🌱 I’m currently studying Management Information System MSc.
 
