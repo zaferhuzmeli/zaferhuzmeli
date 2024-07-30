@@ -5,7 +5,7 @@ I'm Zafer Huzmeli (Zachary) graduated from Bahcesehir University majored in Soft
 
 - 🔭 I’m currently working on PHP, JS(ReactJS - Next.JS), CSS
 
-- 🌱 I’m currently learning Typescript, Devops tools, .Net Core to be Project Manager in the future.
+- 🌱 I’m currently studying Management Information System MSc.
 
 - 📄 For my experiences [https://linkedin.com/in/zafer-huzmeli/](https://linkedin.com/in/zafer-huzmeli)
 
