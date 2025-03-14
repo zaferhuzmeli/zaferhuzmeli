@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 
 ```mermaid
 graph LR
-  iprb(InterProbe)    -- Sep.2022 - .... --> now((Currently))
+  rcd(RADORE)    -- Jan.2025 - .... --> now((Currently))
+  iprb(InterProbe)    -- Sep.2022 - Jan.2025 --> rcd(RADORE)
   rcd(RADORE)    -- Jun.2020 - Sep.2022 --> iprb(InterProbe)
   ins(INSIDER)   -- Aug.2019 - Jun.2020  --> rcd(RADORE)
   nl(NOVALONCA)  -- Apr.2019 - Aug.2019  --> ins(INSIDER)
